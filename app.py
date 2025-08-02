@@ -48,7 +48,7 @@ def generate_script(topic):
 
 # --- Streamlit UI ---
 st.title("🎬 YouTube Script Generator")
-st.caption("Powered by LangChain and Google Gemini")
+st.caption("Powered by AI")
 
 user_input = st.text_input("Enter a video topic:", placeholder="e.g., The science of sleep")
 
